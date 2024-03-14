@@ -4,7 +4,8 @@ to try demo model click bellow button, you can use your phone or PC <br/><br/>
 <br/>
 # Web User Interface LSST-Former on CPU
 run on cpu bit slower, the process around 10 - 20 minute
-please download dataset first https://drive.usercontent.google.com/download?id=1u48pMzRWQ2Etfjaq5A0CUjRtGKZaJoJy&export=download&authuser=2&confirm=t&uuid=52b0e01e-377f-42cb-8412-c84aa38a1740&at=APZUnTXslmuCCV1drJ2WWtkZr9BR%3A1710357675310 <br/>
+please download dataset first https://drive.usercontent.google.com/download?id=1u48pMzRWQ2Etfjaq5A0CUjRtGKZaJoJy&export=download&authuser=2&confirm=t&uuid=52b0e01e-377f-42cb-8412-c84aa38a1740&at=APZUnTXslmuCCV1drJ2WWtkZr9BR%3A1710357675310 <br/><br/>
+klik link bellow for try demo LSST-Former
 https://huggingface.co/spaces/ilhamap/seminar-demo
 <br/>
 <br/>
