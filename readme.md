@@ -22,6 +22,9 @@ https://ultimately-balanced-shepherd.ngrok-free.app/ <br/> if server shut down, 
 
 https://doi.org/10.3390/rs16061078
 
+## **Citation**
+If you find this work useful for your research, please cite our paper:
+```
 @article{panuntun2024linknet,
   author    = {Panuntun, I. A. and Jamaluddin, I. and Chen, Y.-N. and Lai, S.-N. and Fan, K.-C.},
   title     = {LinkNet-Spectral-Spatial-Temporal Transformer Based on Few-Shot Learning for Mangrove Loss Detection with Small Dataset},
@@ -33,3 +36,4 @@ https://doi.org/10.3390/rs16061078
   url       = {https://doi.org/10.3390/rs16061078}
 }
 
+```
