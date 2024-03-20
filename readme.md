@@ -17,3 +17,19 @@ run on GPU more fast, the process around 2 - 4 minute <br/>
 for gpu please download this dataset https://drive.usercontent.google.com/download?id=1jj_cfqZbTHYaoRutdioY5aszkhlGtOWN&export=download&authuser=2&confirm=t&uuid=bf6102ec-2ffb-44d5-aca5-12e827caa4de&at=APZUnTXT2dbn409XizHMvugwYinv:1710526133706 <br/><br/>
 klik link bellow for try demo LSST-Former<br/>
 https://ultimately-balanced-shepherd.ngrok-free.app/ <br/> if server shut down, please let me know ilhamadipanuntun@g.ncu.edu.tw
+
+# LSST-Former paper
+
+https://doi.org/10.3390/rs16061078
+
+@article{panuntun2024linknet,
+  author    = {Panuntun, I. A. and Jamaluddin, I. and Chen, Y.-N. and Lai, S.-N. and Fan, K.-C.},
+  title     = {LinkNet-Spectral-Spatial-Temporal Transformer Based on Few-Shot Learning for Mangrove Loss Detection with Small Dataset},
+  journal   = {Remote Sensing},
+  volume    = {16},
+  year      = {2024},
+  pages     = {1078},
+  doi       = {10.3390/rs16061078},
+  url       = {https://doi.org/10.3390/rs16061078}
+}
+
